@@ -1,0 +1,24 @@
+.card-meta-data h3{
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+.card{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.card-meta-data{
+    padding:20px 20px 13px;
+    height: 120px;
+}
+.card small {
+    text-align: left;
+    padding: 0 20px 20px;
+    font-size: 15px;
+}
+.course-btn {
+    text-align: right;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}

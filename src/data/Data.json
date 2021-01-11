@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "course_name": "AWS Certified Solutions Architect - Associate 2021",
+        "email": "george.bluth@reqres.in",
+        "first_name": "George",
+        "last_name": "Bluth",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/362328_91f3_10.jpg?H13yRRJrbTMNN4wJMTU7tFKVku8U3bO_EGc4doa815eAUDARI7hs_ySlBbxrrQm8iEps4ySQrh3GPN3qK8MfswYC_rC5x7eZDmvbH7kOs7Ta8blE6tyBnE4lLLuLsjS-",
+        "course_price": 129.99
+    },
+    {
+        "id": 2,
+        "course_name": "Learn Ethical Hacking From Scratch",
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/857010_8239_2.jpg?Brtp0_2LAH6RMm3D6oWdH2IGFHHyecuB2sKKKOi2qiO-bGXBAbn0w8XUM6CUn9Q84pot23YZWCIjfRt7DE_r5PmAxJ34gAI_tdjFsX0jzs_KgG30Fanpi5p8I-dIMKk",
+        "course_price": 99.99
+    },
+    {
+        "id": 3,
+        "course_name": "The Complete Cyber Security Course : Network Security!",
+        "email": "emma.wong@reqres.in",
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "course_img": "https://img-b.udemycdn.com/course/240x135/875974_b66d_3.jpg?secure=J4954ZjY8oHkEcsWDD_mHA%3D%3D%2C1610342047",
+        "course_price": 299.00
+    },
+    {
+        "id": 4,
+        "course_name": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
+        "email": "eve.holt@reqres.in",
+        "first_name": "Eve",
+        "last_name": "Holt",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/10812_b0af_6.jpg?ajoCXEd0CtPWQ0liSNchsgk9xT1EzaYMOAGUtwH11_OEG8KUwHmuFBtdpQkuHIkW45LNFWHBdYysJJLb_NSLl2czeGNFIT_iDUpTjm_797rY4vZ6dnpiHfGJFBwnWQ",
+        "course_price": 29.99
+    },
+    {
+        "id": 5,
+        "course_name": "Learn Linux in 5 Days and Level Up Your Career",
+        "email": "charles.morris@reqres.in",
+        "first_name": "Charles",
+        "last_name": "Morris",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/256758_e35d_5.jpg?P4yQsfP4I380jREnGcA57-reZVlQF10GhKH1GwkkHcSqMA459zzRz7-8hc4FgMUzyCKowfDJKO1N-T_hrF_kdtI3PV0x2Q1t1EWwb-DUHlUk8HUG02KYe08JZ9UA974",
+        "course_price": 159.99
+    },
+    {
+        "id": 6,
+        "course_name": "The Complete Networking Fundamentals Course. Your CCNA start",
+        "email": "tracey.ramos@reqres.in",
+        "first_name": "Tracey",
+        "last_name": "Ramos",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/751094_fb27_2.jpg?AQC7P2FLu1aVYOmIBFBklU6miKkR0xz1kSdCdDjn-3Q6iz5sdqQoaZfWAZkXTMUElbXw7BLuufksznz7qmk3Kameib5qB10xL3dhrdMHTPr2pkPKRVKFwMCw339dl0g",
+        "course_price": 29.99
+    },
+    {
+        "id": 7,
+        "course_name": "TOTAL: CompTIA A+ Certification (220-1001).",
+        "email": "michael.lawson@reqres.in",
+        "first_name": "Michael",
+        "last_name": "Lawson",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/2359992_37e3_6.jpg?FLl-SplQBHoz1edIHWhU1IFFb9lQ09Z5hl8YbCpS1ZCKPJcQVkFy0_vBFuxcj7_jbkxuU8zesNhchyrkyVNMidV_qsbMh5Pu8IFV_3KdLRSrW0XPynbdrX4iXP6Bqofn",
+        "course_price": 15.99
+    },
+    {
+        "id": 8,
+        "course_name": "The Complete Oracle SQL Certification Course",
+        "email": "lindsay.ferguson@reqres.in",
+        "first_name": "Lindsay",
+        "last_name": "Ferguson",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/866196_be1d.jpg?OQXIPwCtd6pnCqjEOgkhvgNVdeE7mmXb323y-rU6A5i_RR8WAfb_cMdOffRnss0qLzkx-sAeULSYtp4VpTE5IGDINSdMXaZnjEPyJQe7w1Y7s2IFcaxBrrwqDSbk",
+        "course_price": 99.99
+    },
+    {
+        "id": 9,
+        "course_name": "AZ-104 Microsoft Azure Administrator Exam Certification 2021",
+        "email": "tobias.funke@reqres.in",
+        "first_name": "Tobias",
+        "last_name": "Funke",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/984734_90be_6.jpg?AwCVyqRhM-Jg380v30hH6Lg-xc48fxG0Db2I0naTXG-Ue3844w9C-h1Skc0yCzNpuInxd8SYtF-gqqIBmgeXjmNh5yhKbiYvtoSYO__jn2EIoytODDVf1aBqCmZ6hAg",
+        "course_price": 59.99
+    },
+    {
+        "id": 10,
+        "course_name": "PLC Programming From Scratch (PLC I)",
+        "email": "byron.fields@reqres.in",
+        "first_name": "Byron",
+        "last_name": "Fields",
+        "course_img": "https://img-b.udemycdn.com/course/240x135/118042_251a_12.jpg?secure=itniXyhApluWmg4Z_ff_Rw%3D%3D%2C1610364629",
+        "course_price": 199.99
+    },
+    {
+        "id": 11,
+        "course_name": "Blockchain and Bitcoin Fundamentals",
+        "email": "george.edwards@reqres.in",
+        "first_name": "George",
+        "last_name": "Edwards",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/1151036_64b6_6.jpg?dvlM8yRKLAVBnG3_NBmJckxrLstMGaaY474OKdnAL1D2LsHmQy9K4RhQ6UsqU41J-jamkHyokXbRCK9_rSb-TTlGM8mctuatoVGXKh5BJRcUjE05IrKlJFSwCAZEa4K9",
+        "course_price": 56.99
+    },
+    {
+        "id": 12,
+        "course_name": "Linux Shell Scripting: A Project-Based Approach to Learning",
+        "email": "rachel.howell@reqres.in",
+        "first_name": "Rachel",
+        "last_name": "Howell",
+        "course_img": "https://img-a.udemycdn.com/course/240x135/619698_0efe.jpg?kVJpOLfrRpJMgAlI3uAHTFAc1uTUzADGnkOGmSX6RQWX7DrG0oOLpkoMOlvGFf02VQQX41sbxIMTlUdSLxkqACPYXlVplqdXqKFbIS0JcBMUMgYQwmmSNlGert4y",
+        "course_price": 25.99
+    }
+]
